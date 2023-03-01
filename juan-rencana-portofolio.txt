@@ -3,6 +3,7 @@ Rencana portofolio Juan
 - Membuat website CV
   * Sama seperti cv cuma versi website
   * Membuat CV yang responsive
-- Clone Netflix
+  * Menggunakan Reactjs
 - Online Shop
 - Belajar Parallax Efect
+- Membuat database
