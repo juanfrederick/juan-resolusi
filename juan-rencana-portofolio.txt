@@ -1,0 +1,6 @@
+Rencana portofolio Juan
+
+- Membuat website CV
+  * Sama seperti cv cuma versi website
+- Clone Netflix
+- Online Shop
