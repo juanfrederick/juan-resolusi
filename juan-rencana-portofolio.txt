@@ -9,3 +9,4 @@ Rencana portofolio Juan
 - Online Shop
   - Menggunakan PHP
 - Belajar Parallax Efect
+- Membuat database
