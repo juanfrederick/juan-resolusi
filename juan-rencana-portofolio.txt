@@ -7,4 +7,5 @@ Rencana portofolio Juan
 - Clone Netflix
   - Menggunakan reactjs
 - Online Shop
+  - Menggunakan PHP
 - Belajar Parallax Efect
